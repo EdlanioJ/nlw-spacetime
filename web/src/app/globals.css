@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+@layer components {
+  .scrollbar::-webkit-scrollbar {
+    @apply w-2 h-1 ;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-gray-300;
+  }
+}
