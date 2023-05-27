@@ -1,11 +1,12 @@
-<p align="center">
-  <img alt="NLW Spacetime" src="/docs/images/logo.png" width="100px" />
+
+# <img alt="NLW Spacetime" src="/docs/images/logo.png" style="display: block; margin: 0 auto" width="100px"  />
+
 </p>
 
-<div align="center">
+<center>
 
- [Projeto](#Projeto)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Tecnologias](#rocket-tecnologias) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Executar](#gear-executar)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Layout](#nail_care-layout)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Licença](#memo-licença)
-</div>
+ [Projeto](#-projeto)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Tecnologias](#rocket-tecnologias)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Executar](#gear-executar)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Layout](#nail_care-layout)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Licença](#-licença)
+</center>
 
 # NLW Spacetime • Trilha Ignite
 
