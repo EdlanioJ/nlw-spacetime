@@ -1,5 +1,10 @@
+<div style="text-align: right">
 
-# <img alt="NLW Spacetime" src="/docs/images/logo.png" style="display: block; margin: 0 auto" width="100px"  />
+##### :angola: PT &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:us: EN](/docs/en.md)
+
+</div>
+
+<img alt="NLW Spacetime" src="/docs/images/logo.png" style="display: block; margin: 0 auto" width="100px"  />
 
 </p>
 
@@ -68,7 +73,7 @@ instalar [Golang](https://go.dev/) e:
 
 ```bash
   go mod download
-  
+
   go run main.go
 ```
 
