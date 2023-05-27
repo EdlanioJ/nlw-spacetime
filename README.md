@@ -67,6 +67,8 @@ Criar uma conta gratis no [UploadCare](https://uploadcare.com/), crie um novo pr
 instalar [Golang](https://go.dev/) e:
 
 ```bash
+  go mod download
+  
   go run main.go
 ```
 
