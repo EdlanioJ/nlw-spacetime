@@ -1,17 +1,18 @@
-<div style="text-align: right">
+<div align="right">
 
 ##### :angola: PT &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:us: EN](/docs/en.md)
 
 </div>
 
-<img alt="NLW Spacetime" src="/docs/images/logo.png" style="display: block; margin: 0 auto" width="100px"  />
+<div  align="center">
+
+<img alt="NLW Spacetime" src="/docs/images/logo.png" width="100px"  />
 
 </p>
 
-<center>
-
  [Projeto](#-projeto)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Tecnologias](#rocket-tecnologias)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Executar](#gear-executar)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Layout](#nail_care-layout)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Licença](#-licença)
-</center>
+
+</div>
 
 # NLW Spacetime • Trilha Ignite
 

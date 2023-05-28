@@ -1,17 +1,17 @@
-<div style="text-align: right">
+<div align="right" >
 
 ##### [:angola: PT](../README.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :us: EN
 
 </div>
 
-<img alt="NLW Spacetime" src="/docs/images/logo.png" style="display: block; margin: 0 auto" width="100px"  />
+<div align="center">
+
+<img alt="NLW Spacetime" src="/docs/images/logo.png" width="100px"  />
 
 </p>
 
-<center>
-
  [Project](#-project)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Technologies](#rocket-technologies)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Run](#gear-run)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Layout](#nail_care-layout)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[License](#-license)
-</center>
+</div>
 
 # NLW Spacetime • Ignite Trail
 
